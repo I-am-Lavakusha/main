@@ -1,0 +1,42 @@
+{
+    "1": {
+        "name": "lava",
+        "age": "23",
+        "gender": "M",
+        "class_name": "12th",
+        "parent_name": "Narayanaswamy",
+        "phone_number": "7676767676"
+    },
+    "2": {
+        "name": "sailash",
+        "age": "22",
+        "gender": "M",
+        "class_name": "12",
+        "parent_name": "nanba",
+        "phone_number": "8787878787"
+    },
+    "3": {
+        "name": "lava",
+        "age": "23",
+        "gender": "M",
+        "class_name": "13",
+        "parent_name": "kumar",
+        "phone_number": "785632345"
+    },
+    "4": {
+        "name": "kumar",
+        "age": "22",
+        "gender": "m",
+        "class_name": "11",
+        "parent_name": "gunalan",
+        "phone_number": "5454545454"
+    },
+    "5": {
+        "name": "kumar",
+        "age": "23",
+        "gender": "m",
+        "class_name": "11",
+        "parent_name": "kumar",
+        "phone_number": "5454545454"
+    }
+}
